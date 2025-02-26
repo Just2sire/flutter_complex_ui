@@ -1,16 +1,19 @@
-# complex_ui
+# Implementing Complex UI with Flutter
 
-Some complex ui made with Flutter
+## Key Points
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* **Decomposing Complex Designs:**
+    * Marcin emphasizes breaking down complex designs into smaller, manageable components.
+    * He explains how to identify UI elements and translate them into Flutter widgets.
+* **Layout Widgets:**
+    * The presentation explores using layout widgets like `Stack`, `Transform`, and `AnimatedBuilder` for flexible and dynamic UIs.
+    * Marcin demonstrates combining these widgets for complex visual effects.
+* **Animations and Transitions:**
+    * The video highlights the role of animations and transitions in creating engaging UIs.
+    * Marcin explains using animation controllers and animated widgets for smooth motion and elegant transitions.
+* **Best Practices:**
+    * The presentation stresses following Flutter development best practices, such as separation of concerns and component reuse.
+    * Marcin advises developers to become familiar with core Flutter widgets and their behavior.
+* **Practical Examples:**
+    * The video includes practical examples of implementing complex UIs, such as creating a side navigation menu hidden behind content.
+    * These examples illustrate the techniques and concepts presented.
